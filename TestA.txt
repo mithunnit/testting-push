@@ -1,2 +1,2 @@
 This is file A for testing
-This is for merging process
+This is for merging process testing
