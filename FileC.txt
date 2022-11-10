@@ -1,2 +1,6 @@
 This is File C
+<<<<<<< HEAD
 This is for merging process
+=======
+This is for merging process testing
+>>>>>>> FeatureA
